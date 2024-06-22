@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [NetFlix Clone](https://github.com/GauravOjh/Netflix)
+- 🔭 I’m currently working on [RottenAnimes]
 
 - 🌱 I’m currently learning **Asp.net Web API**
 
